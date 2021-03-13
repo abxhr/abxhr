@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **abxhr/abxhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +26,12 @@ I currently work on projects using:
 * Java ☕
 * C++ 🚆
 * C 💻
+
+<br>
+<br>
+<br> 
+<br>
+<br>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=abxhr&show_icons=true&theme=material-palenight" alt="abxhr" />

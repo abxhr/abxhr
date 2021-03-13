@@ -19,15 +19,13 @@ Here are some ideas to get you started:
  
 I'm Abshar, an Undergrad Computer Science Student at BITS Pilani Dubai Campus 🎓
 
+<img align="right" alt="GIF" width="400" height="250" src=/assets/Typing.gif>
+
 I currently work on projects using:
 * Python 🐍
 * Java ☕
 * C++ 🚆
 * C 💻
-
-<p align="center">
-  <img width="400" height="250" src=/assets/Typing.gif>
-</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=abxhr&show_icons=true&theme=material-palenight" alt="abxhr" />

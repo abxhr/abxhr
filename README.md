@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://gpvc.arturio.dev/abxhr" alt="profile views">
+ 
 I'm Abshar, an Undergrad Computer Science Student at BITS Pilani Dubai Campus 🎓
 
 I currently work on projects using:
@@ -27,4 +29,8 @@ I currently work on projects using:
   <img width="400" height="250" src=/assets/Typing.gif>
 </p>
 
-![Abshar's github stats](https://github-readme-stats.vercel.app/api?username=abxhr)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=abxhr&show_icons=true&theme=material-palenight" alt="abxhr" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abxhr&layout=compact&theme=material-palenight" />
+</p>

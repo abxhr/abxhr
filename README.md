@@ -1,28 +1,16 @@
-### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<!--
-**abxhr/abxhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">
+    Welcome to Abshar's Profile! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 <img src="https://gpvc.arturio.dev/abxhr" alt="profile views">
- 
-I'm Abshar, an Undergrad Computer Science Student at BITS Pilani Dubai Campus 🎓
 
-<img align="right" alt="GIF" width="400" height="250" src=/assets/Typing.gif>
+I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campus 🎓
 
-## Skills and Technologies
 
+## Skills and Technologies 🛠️
+
+![](https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white)
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=Java&logoColor=white&color=007396)
@@ -37,24 +25,43 @@ I'm Abshar, an Undergrad Computer Science Student at BITS Pilani Dubai Campus �
 ![](https://img.shields.io/badge/GitHub-informational?style=flat-sqaure&logo=GitHub&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Vercel-informational?style=flat-sqaure&logo=Vercel&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat-sqaure&logo=Heroku&logoColor=white&color=430098)
+![](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/Pandas-informational?style=flat-square&logo=pandas&logoColor=white&color=150458)
+![](https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/Flask-informational?style=flat-square&logo=Flask&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Dash-informational?style=flat-square&logo=Dash&logoColor=white&color=3F4F75)
+![](https://img.shields.io/badge/Plotly-informational?style=flat-square&logo=Plotly&logoColor=white&color=3F4F75)
 ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=Jupyter&logoColor=white&color=F37626)
+![](https://img.shields.io/badge/Notion-informational?style=flat-square&logo=Notion&logoColor=white&color=000000)
 
 
-<br>
-<br>
-<br> 
-<br>
-<br>
+## My GitHub Statistics 📊
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=abxhr&show_icons=true&theme=material-palenight" alt="abxhr" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abxhr&layout=compact&theme=material-palenight" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abxhr&theme=highcontrast"/>
+</div>
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div align="center">
+    <br/>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abxhr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abxhr&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abxhr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abxhr&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <br/>
+  </div>
+  <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
+</details>
+
+
+## Connect with me 🙋‍♂️
+
+<p align="center">
+    <a href="https://twitter.com/abxhraslam"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/absharaslam/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/abxhr/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    
 </p>

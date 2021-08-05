@@ -29,14 +29,20 @@ I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campu
 ![](https://img.shields.io/badge/Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&color=F7931E)
 ![](https://img.shields.io/badge/Pandas-informational?style=flat-square&logo=pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/Flask-informational?style=flat-square&logo=Flask&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Django-F7931E?style=flat-square&logo=django&logoColor=white&color=092E20)
 ![](https://img.shields.io/badge/Plotly-informational?style=flat-square&logo=Plotly&logoColor=white&color=3F4F75)
+![](https://img.shields.io/badge/Power%20BI-F7931E?style=flat-square&logo=powerbi&logoColor=white&color=F2C811)
+![](https://img.shields.io/badge/Snowflake-F7931E?style=flat-square&logo=snowflake&logoColor=white&color=29B5E8)
 ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat-square&logo=Jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/Notion-informational?style=flat-square&logo=Notion&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Jira-informational?style=flat-square&logo=jira&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/OBS%20Studio-informational?style=flat-square&logo=obs-studio&logoColor=white&color=302E31)
 
 
 ## My GitHub Statistics 📊

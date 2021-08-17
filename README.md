@@ -26,6 +26,7 @@ I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campu
 ![](https://img.shields.io/badge/Vercel-informational?style=flat-sqaure&logo=Vercel&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Heroku-informational?style=flat-sqaure&logo=Heroku&logoColor=white&color=430098)
 ![](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
+![](https://img.shields.io/badge/Jekyll-informational?style=flat-sqaure&logo=Jekyll&logoColor=white&color=CC0000)
 ![](https://img.shields.io/badge/Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=4169E1)

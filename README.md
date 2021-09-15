@@ -8,7 +8,7 @@
 I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campus 🎓
 
 
-## Skills and Technologies 🛠️
+## 🛠️ Skills and Technologies
 
 ![](https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white)
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
@@ -47,7 +47,7 @@ I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campu
 ![](https://img.shields.io/badge/OBS%20Studio-informational?style=flat-square&logo=obs-studio&logoColor=white&color=302E31)
 
 
-## My GitHub Statistics 📊
+## 📊 My GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abxhr&theme=highcontrast"/>
@@ -64,8 +64,12 @@ I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campu
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 </details>
 
+## 📕 Blog posts
 
-## Connect with me 🙋‍♂️
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🙋‍♂️ Connect with me
 
 <p align="center">
     <a href="https://twitter.com/abxhraslam"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>

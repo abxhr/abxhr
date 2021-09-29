@@ -67,10 +67,10 @@ I'm Abshar, an Undergraduate Computer Science Student at BITS Pilani Dubai Campu
 ## 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 45](https://abxhr-learning.vercel.app//hdoc/Day-45/)
 - [Day 44](https://abxhr-learning.vercel.app//hdoc/Day-44/)
 - [Day 43](https://abxhr-learning.vercel.app//hdoc/Day-43/)
 - [Day 42](https://abxhr-learning.vercel.app//hdoc/Day-42/)
-- [Day 41](https://abxhr-learning.vercel.app//hdoc/Day-41/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🙋‍♂️ Connect with me
